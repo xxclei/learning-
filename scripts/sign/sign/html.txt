@@ -1,0 +1,2289 @@
+<!--无课程提示-->
+    <div class="null-data" style="display: none;">暂无课程</div>
+    <div class="path-box clear">
+        <ul class="breadcrumb fl"  style="display:none;"   id="courseNav">
+            <li><a href="javascript:void(0)"  onclick="searchAllCourse()" >全部课程</a></li>
+                <li></li>
+            <li class="active"></li>
+        </ul>
+    </div>
+
+    <div>
+        <div class="course-list" id="courseList">
+            <div id="stuTopCourseListDiv">
+            </div>
+
+            <div id="stuNormalCourseListDiv">
+                    <div class="course clearfix  learnCourse stu_110046304" info="110046304_263210318" roleId="stu_110046304" id="c_247943797" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="110046304"/>
+                            <input type="hidden" class="courseId" name="courseId" value="247943797"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=247943797&clazzid=110046304&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 247943797, 110046304, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('247943797', '110046304','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=247943797&clazzid=110046304&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="软件工程综合实践">软件工程综合实践</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="付景枝">付景枝</p>
+                                <p>开课时间：2024-11-18～2026-11-18</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_109666309" info="109666309_263210318" roleId="stu_109666309" id="c_247774755" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="109666309"/>
+                            <input type="hidden" class="courseId" name="courseId" value="247774755"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=247774755&clazzid=109666309&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 247774755, 109666309, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('247774755', '109666309','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=247774755&clazzid=109666309&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="马克思主义基本原理">马克思主义基本原理</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="蒋明敏">蒋明敏</p>
+                                <p>开课时间：2024-11-13～2026-11-13</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_107257793" info="107257793_263210318" roleId="stu_107257793" id="c_246720226" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="107257793"/>
+                            <input type="hidden" class="courseId" name="courseId" value="246720226"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=246720226&clazzid=107257793&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 246720226, 107257793, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('246720226', '107257793','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=246720226&clazzid=107257793&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="Python程序设计Ⅱ">Python程序设计Ⅱ</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="冯睿卿">冯睿卿</p>
+                                <p>开课时间：2024-10-14～2026-10-14</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_106245916" info="106245916_263210318" roleId="stu_106245916" id="c_246292172" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="106245916"/>
+                            <input type="hidden" class="courseId" name="courseId" value="246292172"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=246292172&clazzid=106245916&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/669ca80d6a0c5f74835bb936a41aabca.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 246292172, 106245916, 263210318, 0)">移动到</li>
+                                    <li class="quit-course" onclick="quitTheCourse(this, '246292172', '106245916')">退课</li>
+                                    <li onclick="setCourseTop('246292172', '106245916','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=246292172&clazzid=106245916&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="卫生与健康教育课程">卫生与健康教育课程</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title=""></p>
+                            <p class="line2 color3" title="王士荣">王士荣</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_105645877" info="105645877_263210318" roleId="stu_105645877" id="c_245193947" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="105645877"/>
+                            <input type="hidden" class="courseId" name="courseId" value="245193947"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=245193947&clazzid=105645877&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/4e74a4c4a3c5f4d7676e490872dddf1b.jpeg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 245193947, 105645877, 263210318, 0)">移动到</li>
+                                    <li class="quit-course" onclick="quitTheCourse(this, '245193947', '105645877')">退课</li>
+                                    <li onclick="setCourseTop('245193947', '105645877','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=245193947&clazzid=105645877&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="工程材料与信息技术导论（科学广场）-积分">工程材料与信息技术导论（科学广场）-积分</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title=""></p>
+                            <p class="line2 color3" title="徐进超&nbsp;邵月红&nbsp;郑建伟&nbsp;吴佳贤">徐进超&nbsp;邵月红&nbsp;郑建伟&nbsp;吴佳贤</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_104821513" info="104821513_263210318" roleId="stu_104821513" id="c_245696104" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="104821513"/>
+                            <input type="hidden" class="courseId" name="courseId" value="245696104"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=245696104&clazzid=104821513&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 245696104, 104821513, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('245696104', '104821513','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=245696104&clazzid=104821513&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="操作系统课程设计">操作系统课程设计</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="韩进">韩进</p>
+                                <p>开课时间：2024-09-14～2026-09-14</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_104821110" info="104821110_263210318" roleId="stu_104821110" id="c_245695959" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="104821110"/>
+                            <input type="hidden" class="courseId" name="courseId" value="245695959"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=245695959&clazzid=104821110&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 245695959, 104821110, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('245695959', '104821110','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=245695959&clazzid=104821110&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="操作系统Ⅰ">操作系统Ⅰ</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="韩进">韩进</p>
+                                <p>开课时间：2024-09-14～2026-09-14</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_103551137" info="103551137_263210318" roleId="stu_103551137" id="c_245193978" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="103551137"/>
+                            <input type="hidden" class="courseId" name="courseId" value="245193978"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=245193978&clazzid=103551137&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 245193978, 103551137, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('245193978', '103551137','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=245193978&clazzid=103551137&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="计算机接口技术">计算机接口技术</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title=""></p>
+                            <p class="line2 color3" title="岳键">岳键</p>
+                                <p>开课时间：2024-09-04～2026-09-04</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_103472067" info="103472067_263210318" roleId="stu_103472067" id="c_245163852" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="103472067"/>
+                            <input type="hidden" class="courseId" name="courseId" value="245163852"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=245163852&clazzid=103472067&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 245163852, 103472067, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('245163852', '103472067','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=245163852&clazzid=103472067&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="软件工程Ⅰ">软件工程Ⅰ</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="付景枝">付景枝</p>
+                                <p>开课时间：2024-09-03～2026-09-03</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_103455802" info="103455802_263210318" roleId="stu_103455802" id="c_245157770" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="103455802"/>
+                            <input type="hidden" class="courseId" name="courseId" value="245157770"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=245157770&clazzid=103455802&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 245157770, 103455802, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('245157770', '103455802','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=245157770&clazzid=103455802&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="毛泽东思想和中国特色社会主义理论体系概论实践">毛泽东思想和中国特色社会主义理论体系概论实践</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title=""></p>
+                            <p class="line2 color3" title="许川川">许川川</p>
+                                <p>开课时间：2024-09-03～2026-09-03</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_102735075" info="102735075_263210318" roleId="stu_102735075" id="c_244899465" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="102735075"/>
+                            <input type="hidden" class="courseId" name="courseId" value="244899465"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=244899465&clazzid=102735075&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 244899465, 102735075, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('244899465', '102735075','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=244899465&clazzid=102735075&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="数字图像处理Ⅰ">数字图像处理Ⅰ</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="孙玉宝">孙玉宝</p>
+                                <p>开课时间：2024-08-30～2026-08-30</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_102735035" info="102735035_263210318" roleId="stu_102735035" id="c_244899449" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="102735035"/>
+                            <input type="hidden" class="courseId" name="courseId" value="244899449"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=244899449&clazzid=102735035&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 244899449, 102735035, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('244899449', '102735035','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=244899449&clazzid=102735035&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="数字图像处理Ⅰ实践">数字图像处理Ⅰ实践</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="孙玉宝">孙玉宝</p>
+                                <p>开课时间：2024-08-30～2026-08-30</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_101991625" info="101991625_263210318" roleId="stu_101991625" id="c_244619247" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="101991625"/>
+                            <input type="hidden" class="courseId" name="courseId" value="244619247"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=244619247&clazzid=101991625&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 244619247, 101991625, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('244619247', '101991625','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=244619247&clazzid=101991625&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="编译原理Ⅰ">编译原理Ⅰ</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="郑关胜">郑关胜</p>
+                                <p>开课时间：2024-08-17～2026-08-17</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_101637904" info="101637904_263210318" roleId="stu_101637904" id="c_229652469" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="101637904"/>
+                            <input type="hidden" class="courseId" name="courseId" value="229652469"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=229652469&clazzid=101637904&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 229652469, 101637904, 263210318, 0)">移动到</li>
+                                    <li class="quit-course" onclick="quitTheCourse(this, '229652469', '101637904')">退课</li>
+                                    <li onclick="setCourseTop('229652469', '101637904','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=229652469&clazzid=101637904&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="藕舫学院数学建模竞赛实验班">藕舫学院数学建模竞赛实验班</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="费文龙">费文龙</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_99962073" info="99962073_263210318" roleId="stu_99962073" id="c_243771656" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="99962073"/>
+                            <input type="hidden" class="courseId" name="courseId" value="243771656"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=243771656&clazzid=99962073&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 243771656, 99962073, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('243771656', '99962073','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=243771656&clazzid=99962073&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="毛中特选课指导试听课程（板块3：周一9-11）">毛中特选课指导试听课程（板块3：周一9-11）</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="石寅">石寅</p>
+                                <p>开课时间：2024-06-07～2026-06-07</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_97338543" info="97338543_263210318" roleId="stu_97338543" id="c_242711035" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="97338543"/>
+                            <input type="hidden" class="courseId" name="courseId" value="242711035"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=242711035&clazzid=97338543&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 242711035, 97338543, 263210318, 0)">移动到</li>
+                                    <li class="quit-course" onclick="quitTheCourse(this, '242711035', '97338543')">退课</li>
+                                    <li onclick="setCourseTop('242711035', '97338543','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=242711035&clazzid=97338543&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="形势与政策">形势与政策</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="许川川">许川川</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_99786823" info="99786823_263210318" roleId="stu_99786823" id="c_243702828" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="99786823"/>
+                            <input type="hidden" class="courseId" name="courseId" value="243702828"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=243702828&clazzid=99786823&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/3a7c4e2929905646967168696f78ff01.png">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 243702828, 99786823, 263210318, 0)">移动到</li>
+                                    <li class="quit-course" onclick="quitTheCourse(this, '243702828', '99786823')">退课</li>
+                                    <li onclick="setCourseTop('243702828', '99786823','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=243702828&clazzid=99786823&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="t">t</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title=""></p>
+                            <p class="line2 color3" title="t">t</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_98390047" info="98390047_263210318" roleId="stu_98390047" id="c_243150137" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="98390047"/>
+                            <input type="hidden" class="courseId" name="courseId" value="243150137"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=243150137&clazzid=98390047&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 243150137, 98390047, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('243150137', '98390047','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=243150137&clazzid=98390047&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="创新创业基础">创新创业基础</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="王丽娜">王丽娜</p>
+                                <p>开课时间：2024-05-08～2026-05-08</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_98189829" info="98189829_263210318" roleId="stu_98189829" id="c_243071058" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="98189829"/>
+                            <input type="hidden" class="courseId" name="courseId" value="243071058"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=243071058&clazzid=98189829&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 243071058, 98189829, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('243071058', '98189829','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=243071058&clazzid=98189829&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="计算机网络实践">计算机网络实践</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="刘怡然">刘怡然</p>
+                                <p>开课时间：2024-05-05～2026-05-05</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_98028717" info="98028717_263210318" roleId="stu_98028717" id="c_243004720" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="98028717"/>
+                            <input type="hidden" class="courseId" name="courseId" value="243004720"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=243004720&clazzid=98028717&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 243004720, 98028717, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('243004720', '98028717','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=243004720&clazzid=98028717&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="计算机安全导论">计算机安全导论</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="蒋纬炜">蒋纬炜</p>
+                                <p>开课时间：2024-04-28～2026-04-28</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_97186607" info="97186607_263210318" roleId="stu_97186607" id="c_242653694" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="97186607"/>
+                            <input type="hidden" class="courseId" name="courseId" value="242653694"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=242653694&clazzid=97186607&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 242653694, 97186607, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('242653694', '97186607','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=242653694&clazzid=97186607&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="数据库系统原理课程设计(22)">数据库系统原理课程设计(22)</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="马瑞">马瑞</p>
+                                <p>开课时间：2024-04-12～2026-04-12</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_96357531" info="96357531_263210318" roleId="stu_96357531" id="c_242326178" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="96357531"/>
+                            <input type="hidden" class="courseId" name="courseId" value="242326178"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=242326178&clazzid=96357531&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 242326178, 96357531, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('242326178', '96357531','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=242326178&clazzid=96357531&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="计算机组成与体系结构课程设计">计算机组成与体系结构课程设计</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="杜杰">杜杰</p>
+                                <p>开课时间：2024-03-28～2026-03-28</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_94405609" info="94405609_263210318" roleId="stu_94405609" id="c_229652469" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="94405609"/>
+                            <input type="hidden" class="courseId" name="courseId" value="229652469"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=229652469&clazzid=94405609&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 229652469, 94405609, 263210318, 0)">移动到</li>
+                                    <li class="quit-course" onclick="quitTheCourse(this, '229652469', '94405609')">退课</li>
+                                    <li onclick="setCourseTop('229652469', '94405609','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=229652469&clazzid=94405609&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="藕舫学院数学建模竞赛实验班">藕舫学院数学建模竞赛实验班</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="费文龙">费文龙</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_93376381" info="93376381_263210318" roleId="stu_93376381" id="c_241200126" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="93376381"/>
+                            <input type="hidden" class="courseId" name="courseId" value="241200126"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=241200126&clazzid=93376381&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 241200126, 93376381, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('241200126', '93376381','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=241200126&clazzid=93376381&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="算法设计与分析">算法设计与分析</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="宋彪">宋彪</p>
+                                <p>开课时间：2024-02-28～2026-02-28</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_92735244" info="92735244_263210318" roleId="stu_92735244" id="c_240959109" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="92735244"/>
+                            <input type="hidden" class="courseId" name="courseId" value="240959109"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=240959109&clazzid=92735244&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/669ca80d6a0c5f74835bb936a41aabca.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 240959109, 92735244, 263210318, 0)">移动到</li>
+                                    <li class="quit-course" onclick="quitTheCourse(this, '240959109', '92735244')">退课</li>
+                                    <li onclick="setCourseTop('240959109', '92735244','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=240959109&clazzid=92735244&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="计算机网络Ⅰ">计算机网络Ⅰ</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="高光勇">高光勇</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_92547774" info="92547774_263210318" roleId="stu_92547774" id="c_240916001" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="92547774"/>
+                            <input type="hidden" class="courseId" name="courseId" value="240916001"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=240916001&clazzid=92547774&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 240916001, 92547774, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('240916001', '92547774','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=240916001&clazzid=92547774&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="计算机网络Ⅰ">计算机网络Ⅰ</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="刘怡然">刘怡然</p>
+                                <p>开课时间：2024-02-23～2026-02-23</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_92307638" info="92307638_263210318" roleId="stu_92307638" id="c_240833320" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="92307638"/>
+                            <input type="hidden" class="courseId" name="courseId" value="240833320"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=240833320&clazzid=92307638&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 240833320, 92307638, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('240833320', '92307638','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=240833320&clazzid=92307638&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="Java程序设计Ⅱ">Java程序设计Ⅱ</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="王翀">王翀</p>
+                                <p>开课时间：2024-02-20～2026-02-20</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_92421686" info="92421686_263210318" roleId="stu_92421686" id="c_240873780" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="92421686"/>
+                            <input type="hidden" class="courseId" name="courseId" value="240873780"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=240873780&clazzid=92421686&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/c5dc310eaa4b8baf6f16f0bf0bd3a9c7.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 240873780, 92421686, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('240873780', '92421686','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=240873780&clazzid=92421686&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="数据库系统原理Ⅰ(22)">数据库系统原理Ⅰ(22)</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="马瑞">马瑞</p>
+                                <p>开课时间：2024-02-22～2026-02-22</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_92339496" info="92339496_263210318" roleId="stu_92339496" id="c_240845574" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="92339496"/>
+                            <input type="hidden" class="courseId" name="courseId" value="240845574"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=240845574&clazzid=92339496&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 240845574, 92339496, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('240845574', '92339496','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=240845574&clazzid=92339496&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="计算机组成与体系结构">计算机组成与体系结构</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="杜杰">杜杰</p>
+                                <p>开课时间：2024-02-20～2026-02-20</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_88886152" info="88886152_263210318" roleId="stu_88886152" id="c_239529177" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="88886152"/>
+                            <input type="hidden" class="courseId" name="courseId" value="239529177"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=239529177&clazzid=88886152&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 239529177, 88886152, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('239529177', '88886152','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=239529177&clazzid=88886152&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="数据结构课程设计">数据结构课程设计</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="成亚萍">成亚萍</p>
+                                <p>开课时间：2023-12-02～2025-12-02</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_85049171" info="85049171_263210318" roleId="stu_85049171" id="c_238023398" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="85049171"/>
+                            <input type="hidden" class="courseId" name="courseId" value="238023398"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=238023398&clazzid=85049171&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 238023398, 85049171, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('238023398', '85049171','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=238023398&clazzid=85049171&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="数学建模综合实训">数学建模综合实训</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="汪佳玲">汪佳玲</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_82291078" info="82291078_263210318" roleId="stu_82291078" id="c_236923031" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="82291078"/>
+                            <input type="hidden" class="courseId" name="courseId" value="236923031"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236923031&clazzid=82291078&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 236923031, 82291078, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('236923031', '82291078','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236923031&clazzid=82291078&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="面向对象程序设计实践">面向对象程序设计实践</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="王定成">王定成</p>
+                                <p>开课时间：2023-09-15～2025-09-15</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_81795286" info="81795286_263210318" roleId="stu_81795286" id="c_236736112" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="81795286"/>
+                            <input type="hidden" class="courseId" name="courseId" value="236736112"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236736112&clazzid=81795286&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 236736112, 81795286, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('236736112', '81795286','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236736112&clazzid=81795286&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="电子技术基础Ⅰ">电子技术基础Ⅰ</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="孙亚杰">孙亚杰</p>
+                                <p>开课时间：2023-09-11～2025-09-11</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_80579044" info="80579044_263210318" roleId="stu_80579044" id="c_236222206" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="80579044"/>
+                            <input type="hidden" class="courseId" name="courseId" value="236222206"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236222206&clazzid=80579044&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/7619c2f71df7ad2ef60440d2214c3d4e.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 236222206, 80579044, 263210318, 0)">移动到</li>
+                                    <li class="quit-course" onclick="quitTheCourse(this, '236222206', '80579044')">退课</li>
+                                    <li onclick="setCourseTop('236222206', '80579044','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236222206&clazzid=80579044&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="数据结构">数据结构</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="顾韵华，郑玉，崔萌萌，马瑞，成亚萍，姚永雷，王翀,&nbsp;&nbsp;姜琴,&nbsp;宣文霞">顾韵华，郑玉，崔萌萌，马瑞，成亚萍，姚永雷，王翀,&nbsp;&nbsp;姜琴,&nbsp;宣文霞</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_80460565" info="80460565_263210318" roleId="stu_80460565" id="c_236237840" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="80460565"/>
+                            <input type="hidden" class="courseId" name="courseId" value="236237840"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236237840&clazzid=80460565&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 236237840, 80460565, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('236237840', '80460565','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236237840&clazzid=80460565&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="数据结构Ⅰ">数据结构Ⅰ</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="[000514]成亚萍">[000514]成亚萍</p>
+                                <p>开课时间：2023-08-31～2025-08-31</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_80188875" info="80188875_263210318" roleId="stu_80188875" id="c_236130747" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="80188875"/>
+                            <input type="hidden" class="courseId" name="courseId" value="236130747"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236130747&clazzid=80188875&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 236130747, 80188875, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('236130747', '80188875','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236130747&clazzid=80188875&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="劳动实践（2）">劳动实践（2）</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="[2007050028]夏月娟">[2007050028]夏月娟</p>
+                                <p>开课时间：2023-08-28～2025-08-28</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_80027360" info="80027360_263210318" roleId="stu_80027360" id="c_236068206" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="80027360"/>
+                            <input type="hidden" class="courseId" name="courseId" value="236068206"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236068206&clazzid=80027360&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/54f2afbda14bf0ecdaaf5888f6c1ec20.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 236068206, 80027360, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('236068206', '80027360','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236068206&clazzid=80027360&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="面向对象程序设计Ⅱ">面向对象程序设计Ⅱ</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="王定成">王定成</p>
+                                <p>开课时间：2023-08-25～2025-08-25</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_75220777" info="75220777_263210318" roleId="stu_75220777" id="c_233801697" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="75220777"/>
+                            <input type="hidden" class="courseId" name="courseId" value="233801697"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=233801697&clazzid=75220777&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 233801697, 75220777, 263210318, 0)">移动到</li>
+                                    <li class="quit-course" onclick="quitTheCourse(this, '233801697', '75220777')">退课</li>
+                                    <li onclick="setCourseTop('233801697', '75220777','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=233801697&clazzid=75220777&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="形势与政策2022-2023年度（下）">形势与政策2022-2023年度（下）</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="周丽">周丽</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_75162153" info="75162153_263210318" roleId="stu_75162153" id="c_233783609" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="75162153"/>
+                            <input type="hidden" class="courseId" name="courseId" value="233783609"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=233783609&clazzid=75162153&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/3a24c3eae64fc8742edf90e8eaed5fbe.png">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 233783609, 75162153, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('233783609', '75162153','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=233783609&clazzid=75162153&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="校科协信息技术部2023">校科协信息技术部2023</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title=""></p>
+                            <p class="line2 color3" title="郑振廷，邹恒彬，林琪，于航，王雨轩">郑振廷，邹恒彬，林琪，于航，王雨轩</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_75143163" info="75143163_263210318" roleId="stu_75143163" id="c_233632648" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="75143163"/>
+                            <input type="hidden" class="courseId" name="courseId" value="233632648"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=233632648&clazzid=75143163&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 233632648, 75143163, 263210318, 0)">移动到</li>
+                                    <li class="quit-course" onclick="quitTheCourse(this, '233632648', '75143163')">退课</li>
+                                    <li onclick="setCourseTop('233632648', '75143163','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=233632648&clazzid=75143163&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="专业劳动">专业劳动</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="闫雷鸣">闫雷鸣</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_73478264" info="73478264_263210318" roleId="stu_73478264" id="c_222666289" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="73478264"/>
+                            <input type="hidden" class="courseId" name="courseId" value="222666289"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=222666289&clazzid=73478264&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/44c63aee7321bdb87789b8f5cc55ba61.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 222666289, 73478264, 263210318, 0)">移动到</li>
+                                    <li class="quit-course" onclick="quitTheCourse(this, '222666289', '73478264')">退课</li>
+                                    <li onclick="setCourseTop('222666289', '73478264','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=222666289&clazzid=73478264&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="中国共产党简史">中国共产党简史</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="肖雷波">肖雷波</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_73010762" info="73010762_263210318" roleId="stu_73010762" id="c_232972288" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="73010762"/>
+                            <input type="hidden" class="courseId" name="courseId" value="232972288"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232972288&clazzid=73010762&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/1dc877545cc805dd6ccbaa688e5eb1c2.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 232972288, 73010762, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('232972288', '73010762','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232972288&clazzid=73010762&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="R语言编程基础">R语言编程基础</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="黄利东">黄利东</p>
+                                <p>开课时间：2023-02-20～2025-02-20</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_72532428" info="72532428_263210318" roleId="stu_72532428" id="c_232789706" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="72532428"/>
+                            <input type="hidden" class="courseId" name="courseId" value="232789706"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232789706&clazzid=72532428&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 232789706, 72532428, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('232789706', '72532428','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232789706&clazzid=72532428&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="离散数学">离散数学</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="张健">张健</p>
+                                <p>开课时间：2023-02-15～2025-02-15</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_72483915" info="72483915_263210318" roleId="stu_72483915" id="c_232789706" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="72483915"/>
+                            <input type="hidden" class="courseId" name="courseId" value="232789706"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232789706&clazzid=72483915&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 232789706, 72483915, 263210318, 0)">移动到</li>
+                                    <li class="quit-course" onclick="quitTheCourse(this, '232789706', '72483915')">退课</li>
+                                    <li onclick="setCourseTop('232789706', '72483915','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232789706&clazzid=72483915&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="离散数学">离散数学</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="张健">张健</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_72390241" info="72390241_263210318" roleId="stu_72390241" id="c_232755952" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="72390241"/>
+                            <input type="hidden" class="courseId" name="courseId" value="232755952"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232755952&clazzid=72390241&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/f27dde20c9d8afcad19a81839dbbc98d.png">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 232755952, 72390241, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('232755952', '72390241','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232755952&clazzid=72390241&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="劳动实践（1）">劳动实践（1）</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="马凌燕">马凌燕</p>
+                                <p>开课时间：2023-02-13～2025-02-13</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_72199190" info="72199190_263210318" roleId="stu_72199190" id="c_232691281" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="72199190"/>
+                            <input type="hidden" class="courseId" name="courseId" value="232691281"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232691281&clazzid=72199190&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 232691281, 72199190, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('232691281', '72199190','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232691281&clazzid=72199190&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="中国近现代史纲要2022-2023-2">中国近现代史纲要2022-2023-2</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="涂丹">涂丹</p>
+                                <p>开课时间：2023-02-10～2025-02-10</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_72135735" info="72135735_263210318" roleId="stu_72135735" id="c_232670579" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="72135735"/>
+                            <input type="hidden" class="courseId" name="courseId" value="232670579"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232670579&clazzid=72135735&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/78f78be50c71105d77f0d50039794235.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 232670579, 72135735, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('232670579', '72135735','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232670579&clazzid=72135735&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="大气科学概论">大气科学概论</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="曹乐，杨素英，樊曙先，姜海梅，狄迪，蒋惠，王玉莹，许潇锋，张泽峰，陈魁，周永波，康娜，殷梦涛，苑广辉">曹乐，杨素英，樊曙先，姜海梅，狄迪，蒋惠，王玉莹，许潇锋，张泽峰，陈魁，周永波，康娜，殷梦涛，苑广辉</p>
+                                <p>开课时间：2023-02-08～2025-02-08</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_72113185" info="72113185_263210318" roleId="stu_72113185" id="c_232662050" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="72113185"/>
+                            <input type="hidden" class="courseId" name="courseId" value="232662050"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232662050&clazzid=72113185&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 232662050, 72113185, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('232662050', '72113185','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232662050&clazzid=72113185&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="心理健康教育">心理健康教育</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="王君怡">王君怡</p>
+                                <p>开课时间：2023-02-08～2025-02-08</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_72064772" info="72064772_263210318" roleId="stu_72064772" id="c_232643254" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="72064772"/>
+                            <input type="hidden" class="courseId" name="courseId" value="232643254"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232643254&clazzid=72064772&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 232643254, 72064772, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('232643254', '72064772','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232643254&clazzid=72064772&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="概率统计">概率统计</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="宋凤丽">宋凤丽</p>
+                                <p>开课时间：2023-02-07～2025-02-07</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_72035631" info="72035631_263210318" roleId="stu_72035631" id="c_232631516" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="72035631"/>
+                            <input type="hidden" class="courseId" name="courseId" value="232631516"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232631516&clazzid=72035631&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/7f1fb73e11a8c2426507c5c707f2eee5.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 232631516, 72035631, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('232631516', '72035631','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=232631516&clazzid=72035631&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="大学物理Ⅱ（1）">大学物理Ⅱ（1）</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title=""></p>
+                            <p class="line2 color3" title="徐野川">徐野川</p>
+                                <p>开课时间：2023-02-05～2025-02-05</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_63177783" info="63177783_263210318" roleId="stu_63177783" id="c_219514764" >
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="63177783"/>
+                            <input type="hidden" class="courseId" name="courseId" value="219514764"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=219514764&clazzid=63177783&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 219514764, 63177783, 263210318, 0)">移动到</li>
+                                    <li onclick="setCourseTop('219514764', '63177783','263210318', 1,1)">置顶</li>
+                                    <li class="more-box">
+                                        <i class="icon-move move-btn"></i>
+                                    </li>
+                            </ul>
+
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=219514764&clazzid=63177783&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="快乐体育">快乐体育</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="李佳">李佳</p>
+
+                        </div>
+                    </div>
+            </div>
+
+            <div id="isState">
+                    <div class="course clearfix  learnCourse stu_95887811" info="95887811_263210318" roleId="stu_95887811" id="c_242153294">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="95887811"/>
+                            <input type="hidden" class="courseId" name="courseId" value="242153294"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=242153294&clazzid=95887811&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/547e724ba3108a801ef8db90.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 242153294, 95887811, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=242153294&clazzid=95887811&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=242153294&clazzid=95887811&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="古希腊哲学">古希腊哲学</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="武汉大学">武汉大学</p>
+                            <p class="line2 color3" title="赵林">赵林</p>
+                                <p>开课时间：2024-03-25～2024-06-02</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_95887834" info="95887834_263210318" roleId="stu_95887834" id="c_242153314">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="95887834"/>
+                            <input type="hidden" class="courseId" name="courseId" value="242153314"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=242153314&clazzid=95887834&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star2/2014-06/240_130c/1403058090855ycxjk.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 242153314, 95887834, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=242153314&clazzid=95887834&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=242153314&clazzid=95887834&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="艺术美学">艺术美学</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="苏州大学">苏州大学</p>
+                            <p class="line2 color3" title="李超德">李超德</p>
+                                <p>开课时间：2024-03-25～2024-06-02</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_84863248" info="84863248_263210318" roleId="stu_84863248" id="c_236323676">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="84863248"/>
+                            <input type="hidden" class="courseId" name="courseId" value="236323676"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236323676&clazzid=84863248&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/1267b13071793eeae2e29500085e51dc.png">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 236323676, 84863248, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236323676&clazzid=84863248&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236323676&clazzid=84863248&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="面向对象程序设计Ⅱ">面向对象程序设计Ⅱ</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="潘锦基">潘锦基</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_82204968" info="82204968_263210318" roleId="stu_82204968" id="c_236888981">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="82204968"/>
+                            <input type="hidden" class="courseId" name="courseId" value="236888981"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236888981&clazzid=82204968&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/2a5b14c54d7df8ce10bbff0b92b6a978.png">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 236888981, 82204968, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236888981&clazzid=82204968&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236888981&clazzid=82204968&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="大学生心理健康与发展">大学生心理健康与发展</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title=""></p>
+                            <p class="line2 color3" title="陈树林&nbsp;孔燕&nbsp;等">陈树林&nbsp;孔燕&nbsp;等</p>
+                                <p>开课时间：2023-09-18～2023-12-06</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_80709909" info="80709909_263210318" roleId="stu_80709909" id="c_236161344">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="80709909"/>
+                            <input type="hidden" class="courseId" name="courseId" value="236161344"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236161344&clazzid=80709909&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/97bd5d86e814b7ff6df0178289a526fc.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 236161344, 80709909, 263210318, 0)">移动到</li>
+                                    <li class="quit-course" onclick="quitTheCourse(this, '236161344', '80709909')">退课</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236161344&clazzid=80709909&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236161344&clazzid=80709909&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="大学物理2-(23-24第1学期)">大学物理2-(23-24第1学期)</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="赵德林">赵德林</p>
+                                <p>开课时间：2023-08-29～2024-02-29</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_80331041" info="80331041_263210318" roleId="stu_80331041" id="c_236163801">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="80331041"/>
+                            <input type="hidden" class="courseId" name="courseId" value="236163801"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236163801&clazzid=80331041&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6c24a955a554937d8aa6a5aaad1437a3.png">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 236163801, 80331041, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236163801&clazzid=80331041&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=236163801&clazzid=80331041&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="大学物理实验I（1）">大学物理实验I（1）</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                            <p class="line2 color3" title="陈玉林">陈玉林</p>
+                                <p>开课时间：2023-08-28～2024-01-31</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_67242063" info="67242063_263210318" roleId="stu_67242063" id="c_230263438">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="67242063"/>
+                            <input type="hidden" class="courseId" name="courseId" value="230263438"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=230263438&clazzid=67242063&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 230263438, 67242063, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=230263438&clazzid=67242063&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=230263438&clazzid=67242063&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="2022-2023年度第一学期&nbsp;形势与政策">2022-2023年度第一学期&nbsp;形势与政策</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="周丽">周丽</p>
+                                <p>开课时间：2022-11-08～2024-11-08</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_64729276" info="64729276_263210318" roleId="stu_64729276" id="c_227507517">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="64729276"/>
+                            <input type="hidden" class="courseId" name="courseId" value="227507517"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227507517&clazzid=64729276&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 227507517, 64729276, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227507517&clazzid=64729276&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227507517&clazzid=64729276&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="运动塑身">运动塑身</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="赵鹏">赵鹏</p>
+                                <p>开课时间：2022-09-30～2024-09-30</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_64604345" info="64604345_263210318" roleId="stu_64604345" id="c_229076900">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="64604345"/>
+                            <input type="hidden" class="courseId" name="courseId" value="229076900"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=229076900&clazzid=64604345&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/291a5577b270a08f6ad57625bf722b8f.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 229076900, 64604345, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=229076900&clazzid=64604345&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=229076900&clazzid=64604345&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="大学生职业生涯规划（2022入学版）">大学生职业生涯规划（2022入学版）</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title=""></p>
+                            <p class="line2 color3" title="庄明科&nbsp;谢伟&nbsp;常雪亮">庄明科&nbsp;谢伟&nbsp;常雪亮</p>
+                                <p>开课时间：2022-09-28～2022-12-30</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_62970729" info="62970729_263210318" roleId="stu_62970729" id="c_228390864">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="62970729"/>
+                            <input type="hidden" class="courseId" name="courseId" value="228390864"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=228390864&clazzid=62970729&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 228390864, 62970729, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=228390864&clazzid=62970729&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=228390864&clazzid=62970729&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="思想道德修养与法律基础">思想道德修养与法律基础</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="陈云云">陈云云</p>
+                                <p>开课时间：2022-09-13～2024-09-13</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_62872002" info="62872002_263210318" roleId="stu_62872002" id="c_228345191">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="62872002"/>
+                            <input type="hidden" class="courseId" name="courseId" value="228345191"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=228345191&clazzid=62872002&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 228345191, 62872002, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=228345191&clazzid=62872002&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=228345191&clazzid=62872002&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="2022级通用英语1">2022级通用英语1</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="杨艳琴">杨艳琴</p>
+                                <p>开课时间：2022-09-12～2024-09-12</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_62875773" info="62875773_263210318" roleId="stu_62875773" id="c_228346994">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="62875773"/>
+                            <input type="hidden" class="courseId" name="courseId" value="228346994"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=228346994&clazzid=62875773&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/e8c7325d741824b6e139901a98eed45d.png">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 228346994, 62875773, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=228346994&clazzid=62875773&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=228346994&clazzid=62875773&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="程序设计基础">程序设计基础</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="潘锦基">潘锦基</p>
+                                <p>开课时间：2022-09-12～2022-12-31</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_61396583" info="61396583_263210318" roleId="stu_61396583" id="c_227706347">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="61396583"/>
+                            <input type="hidden" class="courseId" name="courseId" value="227706347"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227706347&clazzid=61396583&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/eb2a61dfa6bf706e5150f4285fd2a0f0.png">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 227706347, 61396583, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227706347&clazzid=61396583&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227706347&clazzid=61396583&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="线性代数">线性代数</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="王玉婵">王玉婵</p>
+                                <p>开课时间：2022-08-31～2024-08-31</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_60441646" info="60441646_263210318" roleId="stu_60441646" id="c_227311802">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="60441646"/>
+                            <input type="hidden" class="courseId" name="courseId" value="227311802"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227311802&clazzid=60441646&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 227311802, 60441646, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227311802&clazzid=60441646&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227311802&clazzid=60441646&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="专业导论">专业导论</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="周小莉">周小莉</p>
+                                <p>开课时间：2022-08-24～2024-08-24</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_60441635" info="60441635_263210318" roleId="stu_60441635" id="c_227311798">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="60441635"/>
+                            <input type="hidden" class="courseId" name="courseId" value="227311798"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227311798&clazzid=60441635&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/6ce77a10dd3268daa7ba6c93e5e76459.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 227311798, 60441635, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227311798&clazzid=60441635&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227311798&clazzid=60441635&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="计算机导论">计算机导论</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="周小莉">周小莉</p>
+                                <p>开课时间：2022-08-24～2024-08-24</p>
+
+                        </div>
+                    </div>
+                    <div class="course clearfix  learnCourse stu_60069903" info="60069903_263210318" roleId="stu_60069903" id="c_227130399">
+                        <div class="course-cover">
+                            <input type="hidden" class="clazzId" name="clazzId" value="60069903"/>
+                            <input type="hidden" class="courseId" name="courseId" value="227130399"/>
+                            <input type="hidden" class="role" name="role" value="0"/>
+                            <input type="hidden" class="curPersonId"  value="263210318"/>
+                                        <a href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227130399&clazzid=60069903&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+                                            <img src="http://p.ananas.chaoxing.com/star3/240_130c/669ca80d6a0c5f74835bb936a41aabca.jpg">
+                                        </a>
+
+
+                            <ul class="hanlde-list">
+                                <li class="move-to" onclick="openMovePop(this, 227130399, 60069903, 263210318, 0)">移动到</li>
+                            </ul>
+
+                                            <a class="not-open-tip" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227130399&clazzid=60069903&cpi=263210318&ismooc2=1" target="_blank" tabindex="-1" style="outline: none;">
+课程已结束                                            </a>
+                        </div>
+
+                        <div class="course-info">
+                            <h3 class="inlineBlock">
+                                            <a class="color1" href="https://mooc1.chaoxing.com/visit/stucoursemiddle?courseid=227130399&clazzid=60069903&cpi=263210318&ismooc2=1" target="_blank">
+                                                <span class="course-name overHidden2" style="word-break: break-all;" title="高等数学Ⅰ（1）2022-2023-1学期">高等数学Ⅰ（1）2022-2023-1学期</span>
+                                                <i class="icon-news"></i>
+                                            </a>
+                            </h3>
+                                <p class="margint10 line2 color2" title="南京信息工程大学">南京信息工程大学</p>
+                            <p class="line2 color3" title="雷金贵">雷金贵</p>
+                                <p>开课时间：2022-08-15～2024-08-15</p>
+
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+<!--课程列表 end-->
+
+<script>
+
+    function checkSuperClassStatus(courseId, classId) {
+        $.ajax({
+            type : "get",
+            url : "/mooc2-ans/visit/checksuperclassstatus",
+            data : {
+                courseId : courseId,
+                clazzId : classId
+            },
+            dataType : "json",
+            success : function(data){
+                if(data.status){
+                    location.href = "ChaoxingClassroomPc://open_type=openMeeting&courseId=" + courseId + "&classId=" + classId + "&browser_uid=" + userId + "&ut=s";
+                }else{
+                    alert("该班级暂无在线课堂。");
+                }
+            }
+        })
+
+    }
+</script>
