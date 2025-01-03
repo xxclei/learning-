@@ -1,10 +1,8 @@
 import requests
-from PIL import Image
-from io import BytesIO
+
 import base64
 from urllib.parse import urlsplit
-import pytesseract
-import s
+
 payload = {
     "teachingClassType": "FANKC",
     "pageNumber": 1,
