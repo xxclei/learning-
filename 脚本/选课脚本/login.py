@@ -49,13 +49,17 @@ def get_captcha():
     # Decode the base64 image data
     header, encoded = captcha_data.split(",", 1)
     data = base64.b64decode(encoded)
-    # Display the captcha image
-    image = Image.open(BytesIO(data))
-    image.show()
     
-    # Use OCR to recognize the text in the captcha image
-
-    cp=input("请输入验证码：")
+    # Send the image to the API for recognition
+    api_url = "https://imgcode.toolshu.com/api"
+    api_token = "ts_0VLAG7EEMK5EILKXBDLSIRNFR"  # Replace with your actual token
+    files = {
+        "token": api_token,
+        "file": captcha_data
+    }
+    response = requests.post(api_url, json=files)
+    cp = response.json().get('data')
+    print(cp)
     return cp,uuid
 
 
@@ -98,7 +102,7 @@ headers = {
     "Origin": "http://xsxk.nuist.edu.cn",
     "Referer": "http://xsxk.nuist.edu.cn/xsxk/profile/index.html",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
-    "Cookie": "Authorization=eyJhbGciOiJIUzUxMiJ9.eyJ0aW1lIjoxNzM1OTE0NjcwMjA5LCJsb2dpbl91c2VyX2tleSI6IjIwMjI4MzI5MDE1OSIsInRva2VuIjoiNmNqZTMwMTNmY2lvZ291MjJlaTkza3JhbGEifQ.SAROuodz8NCK0_a4pgsdUMnzo-TGem960V5bokeF4rBGccZebDEI1_qLIQgNfAwgCgoHVM-nd5G3nZ2SFKyHTg; route=33efcd2f3cc6ef258b1dbadfba047ee9"
+   
 }
 captha,uuid=get_captcha()
 # Data for the POST request
